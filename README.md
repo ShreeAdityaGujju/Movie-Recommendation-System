@@ -50,5 +50,3 @@ The system uses the TMDb 5000 Movie Dataset, comprising two CSV files: tmdb_500
 * Implement evaluation metrics (precision, recall, MAP) and collect user feedback to improve the weighting scheme.
 * Deploy as a web service or integrate with a larger recommendation platform, with caching mechanisms for TMDb poster retrieval.
 
-This project demonstrates how combining multiple text‑based similarity measures can create a flexible and effective movie recommender. The Streamlit application lets users explore films interactively and adjust model parameters on the fly, making it a practical starting point for more advanced hybrid recommender systems.
-
